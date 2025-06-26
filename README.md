@@ -70,6 +70,14 @@ python quick_init.py
 
 This creates necessary tables and inserts default users (admin, teachers, students).
 
+source venv/bin/activate
+
+pip install python-dotenv
+
+pip freeze > requirements.txt
+
+
+
 ---
 
 ## 🧑‍💼 Streamlit Portals (Run Individually)
