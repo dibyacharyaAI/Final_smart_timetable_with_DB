@@ -1,7 +1,12 @@
 """
 Database Models and Setup for Smart Timetable System
 """
+
 import os
+from dotenv import load_dotenv
+
+# ✅ Load environment variables from .env file
+load_dotenv()
 from sqlalchemy import create_engine, Column, Integer, String, DateTime, Text, Boolean, ForeignKey
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
