@@ -1,0 +1,56 @@
+# Smart Timetable System - Git Ignore Rules
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# Export files (generated)
+exports/
+optimized_schedule_*.csv
+edited_schedule_*.csv
+
+# Models (if large)
+models/*.pkl
+models/*.h5
+
+# Cache
+.streamlit/

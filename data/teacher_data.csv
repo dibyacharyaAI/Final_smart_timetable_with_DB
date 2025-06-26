@@ -1,0 +1,101 @@
+TeacherID,Name,SubjectExpertise,AvailabilitySlots,Department,MaxSectionsPerDay,PreferredCampus
+KT001,Dr. Sinha,Transform and Numerical Methods,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT002,Prof. Gupta,Transform and Numerical Methods,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT003,Dr. Patel,Chemistry,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,3,Campus_3
+KT004,Prof. Agarwal,Chemistry,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,3,Campus_3
+KT005,Dr. Mishra,Chemistry,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,3,Campus_3
+KT006,Ms. Gupta,English,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT007,Dr. Jha,English,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT008,Prof. Pandey,English,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT009,Dr. Kumar,Basic Electronics,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,3,Campus_3
+KT010,Prof. Reddy,Basic Electronics,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,3,Campus_3
+KT011,Dr. Rajesh,Basic Electronics,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,3,Campus_3
+KT012,Prof. Tiwari,Engineering Mechanics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,3,Campus_8
+KT013,Dr. Shukla,Engineering Mechanics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,3,Campus_8
+KT014,Prof. Dubey,Engineering Mechanics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,3,Campus_8
+KT015,Dr. Verma,HASS Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT016,Prof. Sharma,HASS Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT017,Dr. Rao,Basic Electrical Engineering,"Monday,Tuesday,Wednesday,Thursday,Friday",Electrical Engineering,3,Campus_3
+KT018,Prof. Saxena,Basic Electrical Engineering,"Monday,Tuesday,Wednesday,Thursday,Friday",Electrical Engineering,3,Campus_3
+KT019,Dr. Chandra,Basic Electrical Engineering,"Monday,Tuesday,Wednesday,Thursday,Friday",Electrical Engineering,3,Campus_3
+KT020,Prof. Yadav,Workshop Practice,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,2,Campus_8
+KT021,Dr. Singh,Workshop Practice,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,2,Campus_8
+KT022,Dr. Bhatt,Communication Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",CSE Allied,3,Campus_3
+KT023,Prof. Joshi,Communication Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",CSE Allied,3,Campus_3
+KT024,Dr. Agarwal,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT025,Prof. Rastogi,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT026,Prof. Tripathi,Sports and Yoga,"Monday,Tuesday,Wednesday,Thursday,Friday",Sports,6,Stadium
+KT027,Ms. Priya,Sports and Yoga,"Monday,Tuesday,Wednesday,Thursday,Friday",Sports,6,Stadium
+KT028,Dr. Verma,Physics,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT029,Prof. Mehta,Physics,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT030,Dr. Goyal,Physics,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT031,Dr. Sharma,Environmental Science,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT032,Prof. Malhotra,Environmental Science,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT033,Prof. Singh,Science of Living Systems,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT034,Dr. Bhatt,Science of Living Systems,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT035,Dr. Joshi,Science Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT036,Prof. Chopra,Science Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT037,Dr. Khanna,Engineering Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT038,Prof. Sood,Engineering Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_17
+KT039,Prof. Bansal,Engineering Drawing & Graphics,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,3,Campus_3
+KT040,Dr. Arora,Engineering Drawing & Graphics,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,3,Campus_3
+KT041,Dr. Kapoor,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT042,Prof. Sharma,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT043,Dr. Gupta,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT044,Prof. Tiwari,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT045,Dr. Singh,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT046,Prof. Kumar,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT047,Dr. Patel,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT048,Prof. Agarwal,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT049,Dr. Mishra,Programming Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT050,Prof. Joshi,Transform and Numerical Methods,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT051,Dr. Bose,Transform and Numerical Methods,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT052,Prof. Nair,Chemistry,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,3,Campus_3
+KT053,Dr. Iyer,Chemistry,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,3,Campus_3
+KT054,Prof. Menon,Chemistry,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,3,Campus_3
+KT055,Dr. Pillai,English,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT056,Prof. Nambiar,English,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT057,Dr. Varma,English,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT058,Prof. Krishnan,Basic Electronics,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,3,Campus_3
+KT059,Dr. Raman,Basic Electronics,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,3,Campus_3
+KT060,Prof. Gopal,Basic Electronics,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,3,Campus_3
+KT061,Dr. Prasad,Engineering Mechanics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,3,Campus_8
+KT062,Prof. Mohan,Engineering Mechanics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,3,Campus_8
+KT063,Dr. Yadav,Engineering Mechanics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,3,Campus_8
+KT064,Prof. Thakur,HASS Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT065,Dr. Bhatt,HASS Elective,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT066,Prof. Soni,Basic Electrical Engineering,"Monday,Tuesday,Wednesday,Thursday,Friday",Electrical Engineering,3,Campus_3
+KT067,Dr. Shah,Basic Electrical Engineering,"Monday,Tuesday,Wednesday,Thursday,Friday",Electrical Engineering,3,Campus_3
+KT068,Prof. Desai,Basic Electrical Engineering,"Monday,Tuesday,Wednesday,Thursday,Friday",Electrical Engineering,3,Campus_3
+KT069,Dr. Mehta,Physics,"Monday,Tuesday,Wednesday,Thursday,Friday",Physics,3,Campus_3
+KT070,Prof. Kothari,Physics,"Monday,Tuesday,Wednesday,Thursday,Friday",Physics,3,Campus_3
+KT071,Dr. Jain,Physics,"Monday,Tuesday,Wednesday,Thursday,Friday",Physics,3,Campus_3
+KT072,Prof. Agrawal,Computer Programming,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT073,Dr. Banerjee,Computer Programming,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT074,Prof. Mukherjee,Computer Programming,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,4,Campus_15B
+KT075,Dr. Ghosh,Workshop Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,4,Campus_8
+KT076,Prof. Das,Workshop Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,4,Campus_8
+KT077,Dr. Sarkar,Workshop Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Mechanical Engineering,4,Campus_8
+KT078,Prof. Roy,Chemistry Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,4,Campus_3
+KT079,Dr. Sen,Chemistry Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,4,Campus_3
+KT080,Prof. Dutta,Chemistry Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Civil Engineering,4,Campus_3
+KT081,Dr. Basu,Electronics Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,4,Campus_3
+KT082,Prof. Mitra,Electronics Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,4,Campus_3
+KT083,Dr. Chakraborty,Electronics Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Electronics & IT,4,Campus_3
+KT084,Prof. Bhowmik,Physics Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Physics,4,Campus_3
+KT085,Dr. Bhattacharya,Physics Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Physics,4,Campus_3
+KT086,Prof. Chatterjee,Physics Lab,"Monday,Tuesday,Wednesday,Thursday,Friday",Physics,4,Campus_3
+KT087,Dr. Majumdar,Mathematics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT088,Prof. Ganguly,Mathematics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT089,Dr. Paul,Mathematics,"Monday,Tuesday,Wednesday,Thursday,Friday",Mathematics,4,Any
+KT090,Prof. Saha,Sports & Yoga,"Monday,Tuesday,Wednesday,Thursday,Friday",Physical Education,3,Stadium
+KT091,Dr. Mandal,Sports & Yoga,"Monday,Tuesday,Wednesday,Thursday,Friday",Physical Education,3,Stadium
+KT092,Prof. Kar,Sports & Yoga,"Monday,Tuesday,Wednesday,Thursday,Friday",Physical Education,3,Stadium
+KT093,Dr. Biswas,English Communication,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT094,Prof. Chowdhury,English Communication,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT095,Dr. Dey,Technical Writing,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT096,Prof. Kundu,Technical Writing,"Monday,Tuesday,Wednesday,Thursday,Friday",Humanities,4,Any
+KT097,Dr. Hazra,Environmental Science,"Monday,Tuesday,Wednesday,Thursday,Friday",Environmental Engineering,3,Any
+KT098,Prof. Mondal,Environmental Science,"Monday,Tuesday,Wednesday,Thursday,Friday",Environmental Engineering,3,Any
+KT099,Dr. Ghosh,Computer Networks,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,3,Campus_15B
+KT100,Prof. Banerjee,Data Structures,"Monday,Tuesday,Wednesday,Thursday,Friday",Computer Science Engineering,3,Campus_15B
