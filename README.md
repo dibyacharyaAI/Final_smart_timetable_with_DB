@@ -70,11 +70,19 @@ python quick_init.py
 
 This creates necessary tables and inserts default users (admin, teachers, students).
 
+
+```bash
 source venv/bin/activate
+```
 
+```bash
 pip install python-dotenv
+```
 
+
+```bash
 pip freeze > requirements.txt
+```
 
 
 
