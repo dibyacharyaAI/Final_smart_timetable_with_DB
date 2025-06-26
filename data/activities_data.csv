@@ -1,0 +1,15 @@
+ActivityType,Frequency,RoomRequired,Duration,MaxStudents,Equipment,Scheme
+Theory,Daily,Classroom,60,60,Projector,Both
+Lab,Weekly,Specialized_Lab,120,30,Lab_Equipment,Both
+Workshop,Weekly,Workshop,120,30,Tools_Machines,Scheme_A
+Tutorial,Weekly,Classroom,60,30,Projector,Both
+Seminar,Monthly,Seminar_Hall,90,100,Audio_Visual,Both
+Club,Weekly,Activity_Room,60,50,Basic,Both
+Sports,Weekly,Stadium,120,200,Sports_Equipment,Both
+Programming,Weekly,Computer_Lab,120,30,Computers,Scheme_B
+Drawing,Weekly,Drawing_Hall,120,40,Drawing_Tables,Scheme_B
+Chemistry_Lab,Weekly,Chemistry_Lab,120,30,Lab_Equipment,Scheme_A
+Physics_Lab,Weekly,Physics_Lab,120,30,Lab_Equipment,Scheme_B
+Electronics_Lab,Weekly,Electronics_Lab,120,30,Electronics_Equipment,Scheme_A
+Electrical_Lab,Weekly,Electrical_Lab,120,30,Electrical_Equipment,Scheme_A
+Mechanics_Lab,Weekly,Mechanics_Lab,120,30,Mechanical_Equipment,Scheme_A

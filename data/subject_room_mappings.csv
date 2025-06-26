@@ -1,0 +1,17 @@
+Subject,Subject_Code,Room_Type,Activity_Type,Scheme
+Chemistry,CH10001,Classroom,theory,A
+Chemistry Lab,CH10001,Lab,lab,A
+Mathematics,MA11001,Classroom,theory,A
+Transform and Numerical Methods,MA11001,Classroom,theory,B
+English,HS10001,Classroom,theory,A
+Basic Electronics,EC10001,Classroom,theory,A
+Engineering Mechanics,ME10001,Classroom,theory,A
+Physics,PHY10001,Classroom,theory,B
+Physics Lab,PHY10001,Lab,lab,B
+Programming Lab,CS13001,Lab,lab,B
+Workshop,ME10003,Workshop,lab,A
+Sports and Yoga,PE10001,Stadium,extra_curricular_activity,A
+Environmental Science,EV10001,Classroom,theory,B
+Science of Living Systems,BT10001,Classroom,theory,B
+Engineering Drawing & Graphics,ME10002,Workshop,lab,B
+Nanoscience,NANO10001,Classroom,Elective,B

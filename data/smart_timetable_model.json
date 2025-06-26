@@ -1,0 +1,8 @@
+{
+  "input_dim": 10,
+  "embed_dim": 8,
+  "hidden_dim": 16,
+  "param_dim": 10,
+  "trained": true,
+  "threshold": 0.25
+}

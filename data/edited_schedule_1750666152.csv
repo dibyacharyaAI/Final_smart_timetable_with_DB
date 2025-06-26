@@ -1,0 +1,1686 @@
+Section,Day,Time,Subject,Teacher,Room,ActivityType,Block
+A8,Monday,08:00,Physics,Dr. Verma,C3-T09,theory,Campus_3
+A8,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T10,theory,Campus_3
+A8,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T11,theory,Campus_3
+A8,Monday,11:00,Environmental Science,Prof. Sharma,C3-T12,theory,Campus_3
+A8,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+A8,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+A8,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A8,Monday,15:00,Chemistry,Dr. Patel,C3-T16,theory,Campus_3
+A8,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T17,theory,Campus_3
+A8,Monday,17:00,English,Ms. Gupta,C3-T18,theory,Campus_3
+A8,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T19,theory,Campus_3
+A8,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T20,theory,Campus_3
+A8,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+A8,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+A8,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A8,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A8,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A8,Tuesday,15:00,Elective,Staff,C3-T09,Elective,Campus_3
+A8,Thursday,14:00,Elective,Staff,C3-T09,Elective,Campus_3
+A8,Friday,09:00,Elective,Staff,C3-T09,Elective,Campus_3
+A8,Saturday,17:00,Elective,Staff,C3-T09,Elective,Campus_3
+A12,Monday,08:00,Physics,Dr. Verma,C3-T13,theory,Campus_3
+A12,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T14,theory,Campus_3
+A12,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T15,theory,Campus_3
+A12,Monday,11:00,Environmental Science,Prof. Sharma,C3-T16,theory,Campus_3
+A12,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+A12,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+A12,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A12,Monday,15:00,Chemistry,Dr. Patel,C3-T20,theory,Campus_3
+A12,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T21,theory,Campus_3
+A12,Monday,17:00,English,Ms. Gupta,C3-T22,theory,Campus_3
+A12,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T23,theory,Campus_3
+A12,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T24,theory,Campus_3
+A12,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+A12,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+A12,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A12,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A12,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A12,Tuesday,15:00,Elective,Staff,C3-T13,Elective,Campus_3
+A12,Thursday,08:00,Elective,Staff,C3-T13,Elective,Campus_3
+A12,Friday,13:00,Elective,Staff,C3-T13,Elective,Campus_3
+A12,Friday,15:00,Elective,Staff,C3-T13,Elective,Campus_3
+A12,Saturday,10:00,Elective,Staff,C3-T13,Elective,Campus_3
+B30,Monday,08:00,Chemistry,Dr. Patel,C15B-T13,theory,Campus_15B
+B30,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T14,theory,Campus_15B
+B30,Monday,10:00,English,Ms. Gupta,C15B-T15,theory,Campus_15B
+B30,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T16,theory,Campus_15B
+B30,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T17,theory,Campus_15B
+B30,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T18,theory,Campus_15B
+B30,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+B30,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+B30,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B30,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B30,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B30,Tuesday,09:00,Physics,Dr. Verma,C15B-T06,theory,Campus_15B
+B30,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T07,theory,Campus_15B
+B30,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T08,theory,Campus_15B
+B30,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T09,theory,Campus_15B
+B30,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T10,theory,Campus_15B
+B30,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+B30,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+B30,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B30,Tuesday,17:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+B30,Wednesday,08:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+B30,Wednesday,10:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+B30,Thursday,15:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+B30,Thursday,17:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+B30,Friday,17:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+A15,Monday,08:00,Physics,Dr. Verma,C8-T06,theory,Campus_8
+A15,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T07,theory,Campus_8
+A15,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T08,theory,Campus_8
+A15,Monday,11:00,Environmental Science,Prof. Sharma,C8-T09,theory,Campus_8
+A15,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+A15,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+A15,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A15,Monday,15:00,Chemistry,Dr. Patel,C8-T03,theory,Campus_8
+A15,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T04,theory,Campus_8
+A15,Monday,17:00,English,Ms. Gupta,C8-T05,theory,Campus_8
+A15,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T06,theory,Campus_8
+A15,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T07,theory,Campus_8
+A15,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+A15,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+A15,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A15,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A15,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A15,Tuesday,15:00,Elective,Staff,C8-T06,Elective,Campus_8
+A15,Wednesday,16:00,Elective,Staff,C8-T06,Elective,Campus_8
+A15,Friday,08:00,Elective,Staff,C8-T06,Elective,Campus_8
+A15,Friday,13:00,Elective,Staff,C8-T06,Elective,Campus_8
+A15,Friday,16:00,Elective,Staff,C8-T06,Elective,Campus_8
+A15,Friday,17:00,Elective,Staff,C8-T06,Elective,Campus_8
+A15,Saturday,16:00,Elective,Staff,C8-T06,Elective,Campus_8
+A36,Monday,08:00,Physics,Dr. Verma,C15B-T01,theory,Campus_15B
+A36,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T02,theory,Campus_15B
+A36,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T03,theory,Campus_15B
+A36,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T04,theory,Campus_15B
+A36,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+A36,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+A36,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A36,Monday,15:00,Chemistry,Dr. Patel,C15B-T08,theory,Campus_15B
+A36,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T09,theory,Campus_15B
+A36,Monday,17:00,English,Ms. Gupta,C15B-T10,theory,Campus_15B
+A36,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T11,theory,Campus_15B
+A36,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T12,theory,Campus_15B
+A36,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+A36,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+A36,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A36,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A36,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A36,Tuesday,15:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+A36,Tuesday,17:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+A36,Friday,13:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+A36,Saturday,09:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+A36,Saturday,17:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+B14,Monday,08:00,Chemistry,Dr. Patel,C8-T05,theory,Campus_8
+B14,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T06,theory,Campus_8
+B14,Monday,10:00,English,Ms. Gupta,C8-T07,theory,Campus_8
+B14,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T08,theory,Campus_8
+B14,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T09,theory,Campus_8
+B14,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T10,theory,Campus_8
+B14,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+B14,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+B14,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B14,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B14,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B14,Tuesday,09:00,Physics,Dr. Verma,C8-T06,theory,Campus_8
+B14,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T07,theory,Campus_8
+B14,Tuesday,11:00,Science Elective,Dr. Nair,C8-T08,theory,Campus_8
+B14,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T09,theory,Campus_8
+B14,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T10,theory,Campus_8
+B14,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+B14,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+B14,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B14,Tuesday,17:00,Elective,Staff,C8-T05,Elective,Campus_8
+B14,Thursday,10:00,Elective,Staff,C8-T05,Elective,Campus_8
+B14,Friday,11:00,Elective,Staff,C8-T05,Elective,Campus_8
+B14,Friday,16:00,Elective,Staff,C8-T05,Elective,Campus_8
+B14,Friday,17:00,Elective,Staff,C8-T05,Elective,Campus_8
+B14,Saturday,11:00,Elective,Staff,C8-T05,Elective,Campus_8
+B14,Saturday,15:00,Elective,Staff,C8-T05,Elective,Campus_8
+A21,Monday,08:00,Physics,Dr. Verma,C8-T02,theory,Campus_8
+A21,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T03,theory,Campus_8
+A21,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T04,theory,Campus_8
+A21,Monday,11:00,Environmental Science,Prof. Sharma,C8-T05,theory,Campus_8
+A21,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+A21,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+A21,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A21,Monday,15:00,Chemistry,Dr. Patel,C8-T09,theory,Campus_8
+A21,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T10,theory,Campus_8
+A21,Monday,17:00,English,Ms. Gupta,C8-T01,theory,Campus_8
+A21,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T02,theory,Campus_8
+A21,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T03,theory,Campus_8
+A21,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+A21,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+A21,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A21,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A21,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A21,Tuesday,15:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Tuesday,16:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Wednesday,11:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Wednesday,13:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Wednesday,15:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Thursday,13:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Friday,10:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Saturday,11:00,Elective,Staff,C8-T02,Elective,Campus_8
+A21,Saturday,15:00,Elective,Staff,C8-T02,Elective,Campus_8
+A31,Monday,08:00,Physics,Dr. Verma,C15B-T14,theory,Campus_15B
+A31,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T15,theory,Campus_15B
+A31,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T16,theory,Campus_15B
+A31,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T17,theory,Campus_15B
+A31,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+A31,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+A31,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A31,Monday,15:00,Chemistry,Dr. Patel,C15B-T03,theory,Campus_15B
+A31,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T04,theory,Campus_15B
+A31,Monday,17:00,English,Ms. Gupta,C15B-T05,theory,Campus_15B
+A31,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T06,theory,Campus_15B
+A31,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T07,theory,Campus_15B
+A31,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+A31,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+A31,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A31,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A31,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A31,Tuesday,15:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+A31,Wednesday,11:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+A31,Friday,09:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+A31,Saturday,13:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+A14,Monday,08:00,Physics,Dr. Verma,C8-T05,theory,Campus_8
+A14,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T06,theory,Campus_8
+A14,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T07,theory,Campus_8
+A14,Monday,11:00,Environmental Science,Prof. Sharma,C8-T08,theory,Campus_8
+A14,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+A14,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+A14,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A14,Monday,15:00,Chemistry,Dr. Patel,C8-T02,theory,Campus_8
+A14,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T03,theory,Campus_8
+A14,Monday,17:00,English,Ms. Gupta,C8-T04,theory,Campus_8
+A14,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T05,theory,Campus_8
+A14,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T06,theory,Campus_8
+A14,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+A14,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+A14,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A14,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A14,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A14,Tuesday,15:00,Elective,Staff,C8-T05,Elective,Campus_8
+A14,Wednesday,16:00,Elective,Staff,C8-T05,Elective,Campus_8
+A14,Thursday,12:00,Elective,Staff,C8-T05,Elective,Campus_8
+A14,Saturday,10:00,Elective,Staff,C8-T05,Elective,Campus_8
+B1,Monday,08:00,Chemistry,Dr. Patel,C3-T02,theory,Campus_3
+B1,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T03,theory,Campus_3
+B1,Monday,10:00,English,Ms. Gupta,C3-T04,theory,Campus_3
+B1,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T05,theory,Campus_3
+B1,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T06,theory,Campus_3
+B1,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T07,theory,Campus_3
+B1,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+B1,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+B1,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B1,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B1,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B1,Tuesday,09:00,Physics,Dr. Verma,C3-T13,theory,Campus_3
+B1,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T14,theory,Campus_3
+B1,Tuesday,11:00,Science Elective,Dr. Nair,C3-T15,theory,Campus_3
+B1,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T16,theory,Campus_3
+B1,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T17,theory,Campus_3
+B1,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+B1,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+B1,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B1,Tuesday,17:00,Elective,Staff,C3-T02,Elective,Campus_3
+B1,Thursday,13:00,Elective,Staff,C3-T02,Elective,Campus_3
+B1,Friday,11:00,Elective,Staff,C3-T02,Elective,Campus_3
+B5,Monday,08:00,Chemistry,Dr. Patel,C3-T06,theory,Campus_3
+B5,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T07,theory,Campus_3
+B5,Monday,10:00,English,Ms. Gupta,C3-T08,theory,Campus_3
+B5,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T09,theory,Campus_3
+B5,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T10,theory,Campus_3
+B5,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T11,theory,Campus_3
+B5,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+B5,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+B5,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B5,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B5,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B5,Tuesday,09:00,Physics,Dr. Verma,C3-T17,theory,Campus_3
+B5,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T18,theory,Campus_3
+B5,Tuesday,11:00,Science Elective,Dr. Nair,C3-T19,theory,Campus_3
+B5,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T20,theory,Campus_3
+B5,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T21,theory,Campus_3
+B5,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+B5,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+B5,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B5,Tuesday,17:00,Elective,Staff,C3-T06,Elective,Campus_3
+B5,Wednesday,10:00,Elective,Staff,C3-T06,Elective,Campus_3
+B5,Saturday,08:00,Elective,Staff,C3-T06,Elective,Campus_3
+A33,Monday,08:00,Physics,Dr. Verma,C15B-T16,theory,Campus_15B
+A33,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T17,theory,Campus_15B
+A33,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T18,theory,Campus_15B
+A33,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T01,theory,Campus_15B
+A33,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+A33,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+A33,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A33,Monday,15:00,Chemistry,Dr. Patel,C15B-T05,theory,Campus_15B
+A33,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T06,theory,Campus_15B
+A33,Monday,17:00,English,Ms. Gupta,C15B-T07,theory,Campus_15B
+A33,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T08,theory,Campus_15B
+A33,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T09,theory,Campus_15B
+A33,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+A33,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+A33,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A33,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A33,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A33,Tuesday,15:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+A33,Wednesday,14:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+A33,Thursday,08:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+A33,Friday,11:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+A33,Saturday,08:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+A33,Saturday,16:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B8,Monday,08:00,Chemistry,Dr. Patel,C3-T09,theory,Campus_3
+B8,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T10,theory,Campus_3
+B8,Monday,10:00,English,Ms. Gupta,C3-T11,theory,Campus_3
+B8,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T12,theory,Campus_3
+B8,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T13,theory,Campus_3
+B8,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T14,theory,Campus_3
+B8,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+B8,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+B8,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B8,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B8,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B8,Tuesday,09:00,Physics,Dr. Verma,C3-T20,theory,Campus_3
+B8,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T21,theory,Campus_3
+B8,Tuesday,11:00,Science Elective,Dr. Nair,C3-T22,theory,Campus_3
+B8,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T23,theory,Campus_3
+B8,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T24,theory,Campus_3
+B8,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+B8,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+B8,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B8,Tuesday,17:00,Elective,Staff,C3-T09,Elective,Campus_3
+B8,Wednesday,10:00,Elective,Staff,C3-T09,Elective,Campus_3
+B8,Friday,09:00,Elective,Staff,C3-T09,Elective,Campus_3
+B15,Monday,08:00,Chemistry,Dr. Patel,C8-T06,theory,Campus_8
+B15,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T07,theory,Campus_8
+B15,Monday,10:00,English,Ms. Gupta,C8-T08,theory,Campus_8
+B15,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T09,theory,Campus_8
+B15,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T10,theory,Campus_8
+B15,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T01,theory,Campus_8
+B15,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+B15,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+B15,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B15,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B15,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B15,Tuesday,09:00,Physics,Dr. Verma,C8-T07,theory,Campus_8
+B15,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T08,theory,Campus_8
+B15,Tuesday,11:00,Science Elective,Dr. Nair,C8-T09,theory,Campus_8
+B15,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T10,theory,Campus_8
+B15,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T01,theory,Campus_8
+B15,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+B15,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+B15,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B15,Tuesday,17:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Wednesday,12:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Wednesday,13:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Wednesday,16:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Thursday,13:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Thursday,15:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Thursday,17:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Friday,13:00,Elective,Staff,C8-T06,Elective,Campus_8
+B15,Saturday,08:00,Elective,Staff,C8-T06,Elective,Campus_8
+B27,Monday,08:00,Chemistry,Dr. Patel,C15B-T10,theory,Campus_15B
+B27,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T11,theory,Campus_15B
+B27,Monday,10:00,English,Ms. Gupta,C15B-T12,theory,Campus_15B
+B27,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T13,theory,Campus_15B
+B27,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T14,theory,Campus_15B
+B27,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T15,theory,Campus_15B
+B27,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+B27,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+B27,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B27,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B27,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B27,Tuesday,09:00,Physics,Dr. Verma,C15B-T03,theory,Campus_15B
+B27,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T04,theory,Campus_15B
+B27,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T05,theory,Campus_15B
+B27,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T06,theory,Campus_15B
+B27,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T07,theory,Campus_15B
+B27,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+B27,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+B27,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B27,Tuesday,17:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+B27,Wednesday,12:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+B33,Monday,08:00,Chemistry,Dr. Patel,C15B-T16,theory,Campus_15B
+B33,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T17,theory,Campus_15B
+B33,Monday,10:00,English,Ms. Gupta,C15B-T18,theory,Campus_15B
+B33,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T01,theory,Campus_15B
+B33,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T02,theory,Campus_15B
+B33,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T03,theory,Campus_15B
+B33,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+B33,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+B33,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B33,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B33,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B33,Tuesday,09:00,Physics,Dr. Verma,C15B-T09,theory,Campus_15B
+B33,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T10,theory,Campus_15B
+B33,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T11,theory,Campus_15B
+B33,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T12,theory,Campus_15B
+B33,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T13,theory,Campus_15B
+B33,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+B33,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+B33,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B33,Tuesday,17:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Thursday,10:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Thursday,11:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Thursday,15:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Thursday,17:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Friday,17:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Saturday,15:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+B33,Saturday,17:00,Elective,Staff,C15B-T16,Elective,Campus_15B
+A2,Monday,08:00,Physics,Dr. Verma,C3-T03,theory,Campus_3
+A2,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T04,theory,Campus_3
+A2,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T05,theory,Campus_3
+A2,Monday,11:00,Environmental Science,Prof. Sharma,C3-T06,theory,Campus_3
+A2,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+A2,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+A2,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A2,Monday,15:00,Chemistry,Dr. Patel,C3-T10,theory,Campus_3
+A2,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T11,theory,Campus_3
+A2,Monday,17:00,English,Ms. Gupta,C3-T12,theory,Campus_3
+A2,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T13,theory,Campus_3
+A2,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T14,theory,Campus_3
+A2,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+A2,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+A2,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A2,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A2,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A2,Tuesday,15:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Wednesday,09:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Wednesday,14:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Thursday,09:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Thursday,17:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Friday,10:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Friday,11:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Friday,17:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Saturday,10:00,Elective,Staff,C3-T03,Elective,Campus_3
+A2,Saturday,16:00,Elective,Staff,C3-T03,Elective,Campus_3
+A17,Monday,08:00,Physics,Dr. Verma,C8-T08,theory,Campus_8
+A17,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T09,theory,Campus_8
+A17,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T10,theory,Campus_8
+A17,Monday,11:00,Environmental Science,Prof. Sharma,C8-T01,theory,Campus_8
+A17,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+A17,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+A17,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A17,Monday,15:00,Chemistry,Dr. Patel,C8-T05,theory,Campus_8
+A17,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T06,theory,Campus_8
+A17,Monday,17:00,English,Ms. Gupta,C8-T07,theory,Campus_8
+A17,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T08,theory,Campus_8
+A17,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T09,theory,Campus_8
+A17,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+A17,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+A17,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A17,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A17,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A17,Tuesday,15:00,Elective,Staff,C8-T08,Elective,Campus_8
+A17,Wednesday,12:00,Elective,Staff,C8-T08,Elective,Campus_8
+A17,Saturday,11:00,Elective,Staff,C8-T08,Elective,Campus_8
+A17,Saturday,17:00,Elective,Staff,C8-T08,Elective,Campus_8
+A32,Monday,08:00,Physics,Dr. Verma,C15B-T15,theory,Campus_15B
+A32,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T16,theory,Campus_15B
+A32,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T17,theory,Campus_15B
+A32,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T18,theory,Campus_15B
+A32,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+A32,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+A32,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A32,Monday,15:00,Chemistry,Dr. Patel,C15B-T04,theory,Campus_15B
+A32,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T05,theory,Campus_15B
+A32,Monday,17:00,English,Ms. Gupta,C15B-T06,theory,Campus_15B
+A32,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T07,theory,Campus_15B
+A32,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T08,theory,Campus_15B
+A32,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+A32,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+A32,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A32,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A32,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A32,Tuesday,15:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A32,Wednesday,16:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A32,Wednesday,17:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A32,Thursday,13:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A32,Thursday,15:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A32,Thursday,16:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A32,Friday,17:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+A30,Monday,08:00,Physics,Dr. Verma,C15B-T13,theory,Campus_15B
+A30,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T14,theory,Campus_15B
+A30,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T15,theory,Campus_15B
+A30,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T16,theory,Campus_15B
+A30,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+A30,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+A30,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A30,Monday,15:00,Chemistry,Dr. Patel,C15B-T02,theory,Campus_15B
+A30,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T03,theory,Campus_15B
+A30,Monday,17:00,English,Ms. Gupta,C15B-T04,theory,Campus_15B
+A30,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T05,theory,Campus_15B
+A30,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T06,theory,Campus_15B
+A30,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+A30,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+A30,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A30,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A30,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A30,Tuesday,15:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+A30,Thursday,12:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+A30,Friday,15:00,Elective,Staff,C15B-T13,Elective,Campus_15B
+A11,Monday,08:00,Physics,Dr. Verma,C3-T12,theory,Campus_3
+A11,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T13,theory,Campus_3
+A11,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T14,theory,Campus_3
+A11,Monday,11:00,Environmental Science,Prof. Sharma,C3-T15,theory,Campus_3
+A11,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+A11,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+A11,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A11,Monday,15:00,Chemistry,Dr. Patel,C3-T19,theory,Campus_3
+A11,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T20,theory,Campus_3
+A11,Monday,17:00,English,Ms. Gupta,C3-T21,theory,Campus_3
+A11,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T22,theory,Campus_3
+A11,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T23,theory,Campus_3
+A11,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+A11,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+A11,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A11,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A11,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A11,Tuesday,15:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Tuesday,17:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Wednesday,10:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Thursday,14:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Thursday,15:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Friday,12:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Friday,16:00,Elective,Staff,C3-T12,Elective,Campus_3
+A11,Saturday,14:00,Elective,Staff,C3-T12,Elective,Campus_3
+B3,Monday,08:00,Chemistry,Dr. Patel,C3-T04,theory,Campus_3
+B3,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T05,theory,Campus_3
+B3,Monday,10:00,English,Ms. Gupta,C3-T06,theory,Campus_3
+B3,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T07,theory,Campus_3
+B3,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T08,theory,Campus_3
+B3,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T09,theory,Campus_3
+B3,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+B3,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+B3,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B3,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B3,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B3,Tuesday,09:00,Physics,Dr. Verma,C3-T15,theory,Campus_3
+B3,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T16,theory,Campus_3
+B3,Tuesday,11:00,Science Elective,Dr. Nair,C3-T17,theory,Campus_3
+B3,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T18,theory,Campus_3
+B3,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T19,theory,Campus_3
+B3,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+B3,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+B3,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B3,Tuesday,17:00,Elective,Staff,C3-T04,Elective,Campus_3
+B3,Friday,08:00,Elective,Staff,C3-T04,Elective,Campus_3
+B3,Friday,13:00,Elective,Staff,C3-T04,Elective,Campus_3
+B3,Saturday,08:00,Elective,Staff,C3-T04,Elective,Campus_3
+B3,Saturday,15:00,Elective,Staff,C3-T04,Elective,Campus_3
+B13,Monday,08:00,Chemistry,Dr. Patel,C8-T04,theory,Campus_8
+B13,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T05,theory,Campus_8
+B13,Monday,10:00,English,Ms. Gupta,C8-T06,theory,Campus_8
+B13,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T07,theory,Campus_8
+B13,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T08,theory,Campus_8
+B13,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T09,theory,Campus_8
+B13,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+B13,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+B13,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B13,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B13,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B13,Tuesday,09:00,Physics,Dr. Verma,C8-T05,theory,Campus_8
+B13,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T06,theory,Campus_8
+B13,Tuesday,11:00,Science Elective,Dr. Nair,C8-T07,theory,Campus_8
+B13,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T08,theory,Campus_8
+B13,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T09,theory,Campus_8
+B13,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+B13,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+B13,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B13,Tuesday,17:00,Elective,Staff,C8-T04,Elective,Campus_8
+B13,Wednesday,16:00,Elective,Staff,C8-T04,Elective,Campus_8
+B13,Thursday,12:00,Elective,Staff,C8-T04,Elective,Campus_8
+B13,Saturday,11:00,Elective,Staff,C8-T04,Elective,Campus_8
+B19,Monday,08:00,Chemistry,Dr. Patel,C8-T10,theory,Campus_8
+B19,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T01,theory,Campus_8
+B19,Monday,10:00,English,Ms. Gupta,C8-T02,theory,Campus_8
+B19,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T03,theory,Campus_8
+B19,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T04,theory,Campus_8
+B19,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T05,theory,Campus_8
+B19,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+B19,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+B19,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B19,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B19,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B19,Tuesday,09:00,Physics,Dr. Verma,C8-T01,theory,Campus_8
+B19,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T02,theory,Campus_8
+B19,Tuesday,11:00,Science Elective,Dr. Nair,C8-T03,theory,Campus_8
+B19,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T04,theory,Campus_8
+B19,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T05,theory,Campus_8
+B19,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+B19,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+B19,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B19,Tuesday,17:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Wednesday,10:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Wednesday,14:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Thursday,08:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Thursday,13:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Thursday,14:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Saturday,10:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Saturday,12:00,Elective,Staff,C8-T10,Elective,Campus_8
+B19,Saturday,13:00,Elective,Staff,C8-T10,Elective,Campus_8
+A23,Monday,08:00,Physics,Dr. Verma,C8-T04,theory,Campus_8
+A23,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T05,theory,Campus_8
+A23,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T06,theory,Campus_8
+A23,Monday,11:00,Environmental Science,Prof. Sharma,C8-T07,theory,Campus_8
+A23,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+A23,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+A23,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A23,Monday,15:00,Chemistry,Dr. Patel,C8-T01,theory,Campus_8
+A23,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T02,theory,Campus_8
+A23,Monday,17:00,English,Ms. Gupta,C8-T03,theory,Campus_8
+A23,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T04,theory,Campus_8
+A23,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T05,theory,Campus_8
+A23,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+A23,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+A23,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A23,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A23,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A23,Tuesday,15:00,Elective,Staff,C8-T04,Elective,Campus_8
+A23,Wednesday,10:00,Elective,Staff,C8-T04,Elective,Campus_8
+A23,Friday,16:00,Elective,Staff,C8-T04,Elective,Campus_8
+A23,Saturday,16:00,Elective,Staff,C8-T04,Elective,Campus_8
+B24,Monday,08:00,Chemistry,Dr. Patel,C8-T05,theory,Campus_8
+B24,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T06,theory,Campus_8
+B24,Monday,10:00,English,Ms. Gupta,C8-T07,theory,Campus_8
+B24,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T08,theory,Campus_8
+B24,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T09,theory,Campus_8
+B24,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T10,theory,Campus_8
+B24,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+B24,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+B24,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B24,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B24,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B24,Tuesday,09:00,Physics,Dr. Verma,C8-T06,theory,Campus_8
+B24,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T07,theory,Campus_8
+B24,Tuesday,11:00,Science Elective,Dr. Nair,C8-T08,theory,Campus_8
+B24,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T09,theory,Campus_8
+B24,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T10,theory,Campus_8
+B24,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+B24,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+B24,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B24,Tuesday,17:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Wednesday,09:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Wednesday,10:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Wednesday,17:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Friday,08:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Friday,09:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Friday,15:00,Elective,Staff,C8-T05,Elective,Campus_8
+B24,Saturday,17:00,Elective,Staff,C8-T05,Elective,Campus_8
+A1,Monday,08:00,Physics,Dr. Verma,C3-T02,theory,Campus_3
+A1,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T03,theory,Campus_3
+A1,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T04,theory,Campus_3
+A1,Monday,11:00,Environmental Science,Prof. Sharma,C3-T05,theory,Campus_3
+A1,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+A1,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+A1,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A1,Monday,15:00,Chemistry,Dr. Patel,C3-T09,theory,Campus_3
+A1,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T10,theory,Campus_3
+A1,Monday,17:00,English,Ms. Gupta,C3-T11,theory,Campus_3
+A1,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T12,theory,Campus_3
+A1,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T13,theory,Campus_3
+A1,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+A1,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+A1,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A1,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A1,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A1,Tuesday,15:00,Elective,Staff,C3-T02,Elective,Campus_3
+A1,Wednesday,08:00,Elective,Staff,C3-T02,Elective,Campus_3
+A1,Wednesday,13:00,Elective,Staff,C3-T02,Elective,Campus_3
+A1,Thursday,10:00,Elective,Staff,C3-T02,Elective,Campus_3
+A1,Saturday,15:00,Elective,Staff,C3-T02,Elective,Campus_3
+B31,Monday,08:00,Chemistry,Dr. Patel,C15B-T14,theory,Campus_15B
+B31,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T15,theory,Campus_15B
+B31,Monday,10:00,English,Ms. Gupta,C15B-T16,theory,Campus_15B
+B31,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T17,theory,Campus_15B
+B31,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T18,theory,Campus_15B
+B31,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T01,theory,Campus_15B
+B31,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+B31,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+B31,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B31,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B31,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B31,Tuesday,09:00,Physics,Dr. Verma,C15B-T07,theory,Campus_15B
+B31,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T08,theory,Campus_15B
+B31,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T09,theory,Campus_15B
+B31,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T10,theory,Campus_15B
+B31,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T11,theory,Campus_15B
+B31,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+B31,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+B31,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B31,Tuesday,17:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+B31,Wednesday,12:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+B31,Friday,12:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+B31,Saturday,08:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+B31,Saturday,09:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+B31,Saturday,12:00,Elective,Staff,C15B-T14,Elective,Campus_15B
+B10,Monday,08:00,Chemistry,Dr. Patel,C3-T11,theory,Campus_3
+B10,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T12,theory,Campus_3
+B10,Monday,10:00,English,Ms. Gupta,C3-T13,theory,Campus_3
+B10,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T14,theory,Campus_3
+B10,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T15,theory,Campus_3
+B10,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T16,theory,Campus_3
+B10,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+B10,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+B10,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B10,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B10,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B10,Tuesday,09:00,Physics,Dr. Verma,C3-T22,theory,Campus_3
+B10,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T23,theory,Campus_3
+B10,Tuesday,11:00,Science Elective,Dr. Nair,C3-T24,theory,Campus_3
+B10,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T25,theory,Campus_3
+B10,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T01,theory,Campus_3
+B10,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+B10,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+B10,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B10,Tuesday,17:00,Elective,Staff,C3-T11,Elective,Campus_3
+B10,Wednesday,08:00,Elective,Staff,C3-T11,Elective,Campus_3
+B10,Wednesday,13:00,Elective,Staff,C3-T11,Elective,Campus_3
+B10,Thursday,08:00,Elective,Staff,C3-T11,Elective,Campus_3
+B10,Thursday,15:00,Elective,Staff,C3-T11,Elective,Campus_3
+B10,Friday,11:00,Elective,Staff,C3-T11,Elective,Campus_3
+A18,Monday,08:00,Physics,Dr. Verma,C8-T09,theory,Campus_8
+A18,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T10,theory,Campus_8
+A18,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T01,theory,Campus_8
+A18,Monday,11:00,Environmental Science,Prof. Sharma,C8-T02,theory,Campus_8
+A18,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+A18,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+A18,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A18,Monday,15:00,Chemistry,Dr. Patel,C8-T06,theory,Campus_8
+A18,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T07,theory,Campus_8
+A18,Monday,17:00,English,Ms. Gupta,C8-T08,theory,Campus_8
+A18,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T09,theory,Campus_8
+A18,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T10,theory,Campus_8
+A18,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+A18,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+A18,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A18,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A18,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A18,Tuesday,15:00,Elective,Staff,C8-T09,Elective,Campus_8
+A18,Thursday,08:00,Elective,Staff,C8-T09,Elective,Campus_8
+A18,Thursday,13:00,Elective,Staff,C8-T09,Elective,Campus_8
+A18,Thursday,16:00,Elective,Staff,C8-T09,Elective,Campus_8
+A18,Friday,09:00,Elective,Staff,C8-T09,Elective,Campus_8
+A18,Saturday,12:00,Elective,Staff,C8-T09,Elective,Campus_8
+A4,Monday,08:00,Physics,Dr. Verma,C3-T05,theory,Campus_3
+A4,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T06,theory,Campus_3
+A4,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T07,theory,Campus_3
+A4,Monday,11:00,Environmental Science,Prof. Sharma,C3-T08,theory,Campus_3
+A4,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+A4,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+A4,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A4,Monday,15:00,Chemistry,Dr. Patel,C3-T12,theory,Campus_3
+A4,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T13,theory,Campus_3
+A4,Monday,17:00,English,Ms. Gupta,C3-T14,theory,Campus_3
+A4,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T15,theory,Campus_3
+A4,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T16,theory,Campus_3
+A4,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+A4,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+A4,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A4,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A4,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A4,Tuesday,15:00,Elective,Staff,C3-T05,Elective,Campus_3
+A4,Thursday,08:00,Elective,Staff,C3-T05,Elective,Campus_3
+A4,Thursday,09:00,Elective,Staff,C3-T05,Elective,Campus_3
+A4,Thursday,16:00,Elective,Staff,C3-T05,Elective,Campus_3
+A4,Friday,15:00,Elective,Staff,C3-T05,Elective,Campus_3
+A4,Saturday,16:00,Elective,Staff,C3-T05,Elective,Campus_3
+A27,Monday,08:00,Physics,Dr. Verma,C15B-T10,theory,Campus_15B
+A27,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T11,theory,Campus_15B
+A27,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T12,theory,Campus_15B
+A27,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T13,theory,Campus_15B
+A27,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+A27,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+A27,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A27,Monday,15:00,Chemistry,Dr. Patel,C15B-T17,theory,Campus_15B
+A27,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T18,theory,Campus_15B
+A27,Monday,17:00,English,Ms. Gupta,C15B-T01,theory,Campus_15B
+A27,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T02,theory,Campus_15B
+A27,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T03,theory,Campus_15B
+A27,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+A27,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+A27,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A27,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A27,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A27,Tuesday,15:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+A27,Wednesday,08:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+A27,Thursday,11:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+A27,Friday,14:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+A27,Saturday,12:00,Elective,Staff,C15B-T10,Elective,Campus_15B
+B36,Monday,08:00,Chemistry,Dr. Patel,C15B-T01,theory,Campus_15B
+B36,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T02,theory,Campus_15B
+B36,Monday,10:00,English,Ms. Gupta,C15B-T03,theory,Campus_15B
+B36,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T04,theory,Campus_15B
+B36,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T05,theory,Campus_15B
+B36,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T06,theory,Campus_15B
+B36,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+B36,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+B36,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B36,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B36,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B36,Tuesday,09:00,Physics,Dr. Verma,C15B-T12,theory,Campus_15B
+B36,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T13,theory,Campus_15B
+B36,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T14,theory,Campus_15B
+B36,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T15,theory,Campus_15B
+B36,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T16,theory,Campus_15B
+B36,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+B36,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+B36,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B36,Tuesday,17:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+B36,Thursday,13:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+B36,Friday,08:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+B36,Friday,13:00,Elective,Staff,C15B-T01,Elective,Campus_15B
+A6,Monday,08:00,Physics,Dr. Verma,C3-T07,theory,Campus_3
+A6,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T08,theory,Campus_3
+A6,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T09,theory,Campus_3
+A6,Monday,11:00,Environmental Science,Prof. Sharma,C3-T10,theory,Campus_3
+A6,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+A6,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+A6,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A6,Monday,15:00,Chemistry,Dr. Patel,C3-T14,theory,Campus_3
+A6,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T15,theory,Campus_3
+A6,Monday,17:00,English,Ms. Gupta,C3-T16,theory,Campus_3
+A6,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T17,theory,Campus_3
+A6,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T18,theory,Campus_3
+A6,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+A6,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+A6,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A6,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A6,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A6,Tuesday,15:00,Elective,Staff,C3-T07,Elective,Campus_3
+A6,Thursday,10:00,Elective,Staff,C3-T07,Elective,Campus_3
+B7,Monday,08:00,Chemistry,Dr. Patel,C3-T08,theory,Campus_3
+B7,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T09,theory,Campus_3
+B7,Monday,10:00,English,Ms. Gupta,C3-T10,theory,Campus_3
+B7,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T11,theory,Campus_3
+B7,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T12,theory,Campus_3
+B7,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T13,theory,Campus_3
+B7,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+B7,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+B7,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B7,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B7,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B7,Tuesday,09:00,Physics,Dr. Verma,C3-T19,theory,Campus_3
+B7,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T20,theory,Campus_3
+B7,Tuesday,11:00,Science Elective,Dr. Nair,C3-T21,theory,Campus_3
+B7,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T22,theory,Campus_3
+B7,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T23,theory,Campus_3
+B7,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+B7,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+B7,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B7,Tuesday,17:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Wednesday,14:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Wednesday,17:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Thursday,11:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Thursday,12:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Thursday,13:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Thursday,14:00,Elective,Staff,C3-T08,Elective,Campus_3
+B7,Saturday,13:00,Elective,Staff,C3-T08,Elective,Campus_3
+A24,Monday,08:00,Physics,Dr. Verma,C8-T05,theory,Campus_8
+A24,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T06,theory,Campus_8
+A24,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T07,theory,Campus_8
+A24,Monday,11:00,Environmental Science,Prof. Sharma,C8-T08,theory,Campus_8
+A24,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+A24,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+A24,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A24,Monday,15:00,Chemistry,Dr. Patel,C8-T02,theory,Campus_8
+A24,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T03,theory,Campus_8
+A24,Monday,17:00,English,Ms. Gupta,C8-T04,theory,Campus_8
+A24,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T05,theory,Campus_8
+A24,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T06,theory,Campus_8
+A24,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+A24,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+A24,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A24,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A24,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A24,Tuesday,15:00,Elective,Staff,C8-T05,Elective,Campus_8
+A24,Wednesday,11:00,Elective,Staff,C8-T05,Elective,Campus_8
+A24,Wednesday,15:00,Elective,Staff,C8-T05,Elective,Campus_8
+A24,Friday,15:00,Elective,Staff,C8-T05,Elective,Campus_8
+A24,Saturday,10:00,Elective,Staff,C8-T05,Elective,Campus_8
+A24,Saturday,17:00,Elective,Staff,C8-T05,Elective,Campus_8
+A5,Monday,08:00,Physics,Dr. Verma,C3-T06,theory,Campus_3
+A5,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T07,theory,Campus_3
+A5,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T08,theory,Campus_3
+A5,Monday,11:00,Environmental Science,Prof. Sharma,C3-T09,theory,Campus_3
+A5,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+A5,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+A5,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A5,Monday,15:00,Chemistry,Dr. Patel,C3-T13,theory,Campus_3
+A5,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T14,theory,Campus_3
+A5,Monday,17:00,English,Ms. Gupta,C3-T15,theory,Campus_3
+A5,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T16,theory,Campus_3
+A5,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T17,theory,Campus_3
+A5,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+A5,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+A5,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A5,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A5,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A5,Tuesday,15:00,Elective,Staff,C3-T06,Elective,Campus_3
+A5,Wednesday,11:00,Elective,Staff,C3-T06,Elective,Campus_3
+A5,Wednesday,12:00,Elective,Staff,C3-T06,Elective,Campus_3
+A5,Wednesday,13:00,Elective,Staff,C3-T06,Elective,Campus_3
+A5,Friday,11:00,Elective,Staff,C3-T06,Elective,Campus_3
+A5,Saturday,15:00,Elective,Staff,C3-T06,Elective,Campus_3
+A28,Monday,08:00,Physics,Dr. Verma,C15B-T11,theory,Campus_15B
+A28,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T12,theory,Campus_15B
+A28,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T13,theory,Campus_15B
+A28,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T14,theory,Campus_15B
+A28,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+A28,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+A28,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A28,Monday,15:00,Chemistry,Dr. Patel,C15B-T18,theory,Campus_15B
+A28,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T01,theory,Campus_15B
+A28,Monday,17:00,English,Ms. Gupta,C15B-T02,theory,Campus_15B
+A28,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T03,theory,Campus_15B
+A28,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T04,theory,Campus_15B
+A28,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+A28,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+A28,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A28,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A28,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A28,Tuesday,15:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+A28,Tuesday,16:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+A28,Thursday,17:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+A28,Friday,09:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+A25,Monday,08:00,Physics,Dr. Verma,C15B-T08,theory,Campus_15B
+A25,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T09,theory,Campus_15B
+A25,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T10,theory,Campus_15B
+A25,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T11,theory,Campus_15B
+A25,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+A25,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+A25,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A25,Monday,15:00,Chemistry,Dr. Patel,C15B-T15,theory,Campus_15B
+A25,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T16,theory,Campus_15B
+A25,Monday,17:00,English,Ms. Gupta,C15B-T17,theory,Campus_15B
+A25,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T18,theory,Campus_15B
+A25,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T01,theory,Campus_15B
+A25,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+A25,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+A25,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A25,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A25,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A25,Tuesday,15:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+A25,Wednesday,16:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+A25,Thursday,11:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+A25,Saturday,16:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+B16,Monday,08:00,Chemistry,Dr. Patel,C8-T07,theory,Campus_8
+B16,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T08,theory,Campus_8
+B16,Monday,10:00,English,Ms. Gupta,C8-T09,theory,Campus_8
+B16,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T10,theory,Campus_8
+B16,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T01,theory,Campus_8
+B16,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T02,theory,Campus_8
+B16,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+B16,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+B16,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B16,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B16,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B16,Tuesday,09:00,Physics,Dr. Verma,C8-T08,theory,Campus_8
+B16,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T09,theory,Campus_8
+B16,Tuesday,11:00,Science Elective,Dr. Nair,C8-T10,theory,Campus_8
+B16,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T01,theory,Campus_8
+B16,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T02,theory,Campus_8
+B16,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+B16,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+B16,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B16,Tuesday,17:00,Elective,Staff,C8-T07,Elective,Campus_8
+B16,Thursday,17:00,Elective,Staff,C8-T07,Elective,Campus_8
+B16,Saturday,10:00,Elective,Staff,C8-T07,Elective,Campus_8
+B16,Saturday,14:00,Elective,Staff,C8-T07,Elective,Campus_8
+B29,Monday,08:00,Chemistry,Dr. Patel,C15B-T12,theory,Campus_15B
+B29,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T13,theory,Campus_15B
+B29,Monday,10:00,English,Ms. Gupta,C15B-T14,theory,Campus_15B
+B29,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T15,theory,Campus_15B
+B29,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T16,theory,Campus_15B
+B29,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T17,theory,Campus_15B
+B29,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+B29,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+B29,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B29,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B29,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B29,Tuesday,09:00,Physics,Dr. Verma,C15B-T05,theory,Campus_15B
+B29,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T06,theory,Campus_15B
+B29,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T07,theory,Campus_15B
+B29,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T08,theory,Campus_15B
+B29,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T09,theory,Campus_15B
+B29,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+B29,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+B29,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B29,Tuesday,17:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+B29,Wednesday,12:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+B29,Wednesday,14:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+B29,Wednesday,16:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+B29,Thursday,13:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+B29,Saturday,08:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+B21,Monday,08:00,Chemistry,Dr. Patel,C8-T02,theory,Campus_8
+B21,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T03,theory,Campus_8
+B21,Monday,10:00,English,Ms. Gupta,C8-T04,theory,Campus_8
+B21,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T05,theory,Campus_8
+B21,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T06,theory,Campus_8
+B21,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T07,theory,Campus_8
+B21,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+B21,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+B21,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B21,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B21,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B21,Tuesday,09:00,Physics,Dr. Verma,C8-T03,theory,Campus_8
+B21,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T04,theory,Campus_8
+B21,Tuesday,11:00,Science Elective,Dr. Nair,C8-T05,theory,Campus_8
+B21,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T06,theory,Campus_8
+B21,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T07,theory,Campus_8
+B21,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+B21,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+B21,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B21,Tuesday,17:00,Elective,Staff,C8-T02,Elective,Campus_8
+B21,Thursday,15:00,Elective,Staff,C8-T02,Elective,Campus_8
+B21,Friday,08:00,Elective,Staff,C8-T02,Elective,Campus_8
+B21,Friday,16:00,Elective,Staff,C8-T02,Elective,Campus_8
+B21,Saturday,08:00,Elective,Staff,C8-T02,Elective,Campus_8
+B21,Saturday,13:00,Elective,Staff,C8-T02,Elective,Campus_8
+B35,Monday,08:00,Chemistry,Dr. Patel,C15B-T18,theory,Campus_15B
+B35,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T01,theory,Campus_15B
+B35,Monday,10:00,English,Ms. Gupta,C15B-T02,theory,Campus_15B
+B35,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T03,theory,Campus_15B
+B35,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T04,theory,Campus_15B
+B35,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T05,theory,Campus_15B
+B35,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+B35,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+B35,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B35,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B35,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B35,Tuesday,09:00,Physics,Dr. Verma,C15B-T11,theory,Campus_15B
+B35,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T12,theory,Campus_15B
+B35,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T13,theory,Campus_15B
+B35,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T14,theory,Campus_15B
+B35,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T15,theory,Campus_15B
+B35,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+B35,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+B35,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B35,Tuesday,17:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+B35,Wednesday,11:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+B35,Wednesday,15:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+B35,Thursday,12:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+B35,Saturday,13:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+B35,Saturday,14:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+B18,Monday,08:00,Chemistry,Dr. Patel,C8-T09,theory,Campus_8
+B18,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T10,theory,Campus_8
+B18,Monday,10:00,English,Ms. Gupta,C8-T01,theory,Campus_8
+B18,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T02,theory,Campus_8
+B18,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T03,theory,Campus_8
+B18,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T04,theory,Campus_8
+B18,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+B18,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+B18,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B18,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B18,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B18,Tuesday,09:00,Physics,Dr. Verma,C8-T10,theory,Campus_8
+B18,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T01,theory,Campus_8
+B18,Tuesday,11:00,Science Elective,Dr. Nair,C8-T02,theory,Campus_8
+B18,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T03,theory,Campus_8
+B18,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T04,theory,Campus_8
+B18,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+B18,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+B18,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B18,Tuesday,17:00,Elective,Staff,C8-T09,Elective,Campus_8
+B18,Wednesday,15:00,Elective,Staff,C8-T09,Elective,Campus_8
+B18,Thursday,08:00,Elective,Staff,C8-T09,Elective,Campus_8
+B18,Thursday,14:00,Elective,Staff,C8-T09,Elective,Campus_8
+A22,Monday,08:00,Physics,Dr. Verma,C8-T03,theory,Campus_8
+A22,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T04,theory,Campus_8
+A22,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T05,theory,Campus_8
+A22,Monday,11:00,Environmental Science,Prof. Sharma,C8-T06,theory,Campus_8
+A22,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+A22,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+A22,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A22,Monday,15:00,Chemistry,Dr. Patel,C8-T10,theory,Campus_8
+A22,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T01,theory,Campus_8
+A22,Monday,17:00,English,Ms. Gupta,C8-T02,theory,Campus_8
+A22,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T03,theory,Campus_8
+A22,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T04,theory,Campus_8
+A22,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+A22,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+A22,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A22,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A22,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A22,Tuesday,15:00,Elective,Staff,C8-T03,Elective,Campus_8
+A22,Wednesday,14:00,Elective,Staff,C8-T03,Elective,Campus_8
+A22,Friday,08:00,Elective,Staff,C8-T03,Elective,Campus_8
+A22,Friday,09:00,Elective,Staff,C8-T03,Elective,Campus_8
+A22,Friday,11:00,Elective,Staff,C8-T03,Elective,Campus_8
+A22,Saturday,12:00,Elective,Staff,C8-T03,Elective,Campus_8
+A22,Saturday,14:00,Elective,Staff,C8-T03,Elective,Campus_8
+B28,Monday,08:00,Chemistry,Dr. Patel,C15B-T11,theory,Campus_15B
+B28,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T12,theory,Campus_15B
+B28,Monday,10:00,English,Ms. Gupta,C15B-T13,theory,Campus_15B
+B28,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T14,theory,Campus_15B
+B28,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T15,theory,Campus_15B
+B28,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T16,theory,Campus_15B
+B28,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+B28,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+B28,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B28,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B28,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B28,Tuesday,09:00,Physics,Dr. Verma,C15B-T04,theory,Campus_15B
+B28,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T05,theory,Campus_15B
+B28,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T06,theory,Campus_15B
+B28,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T07,theory,Campus_15B
+B28,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T08,theory,Campus_15B
+B28,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+B28,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+B28,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B28,Tuesday,17:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+B28,Saturday,09:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+B28,Saturday,16:00,Elective,Staff,C15B-T11,Elective,Campus_15B
+A34,Monday,08:00,Physics,Dr. Verma,C15B-T17,theory,Campus_15B
+A34,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T18,theory,Campus_15B
+A34,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T01,theory,Campus_15B
+A34,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T02,theory,Campus_15B
+A34,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+A34,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+A34,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A34,Monday,15:00,Chemistry,Dr. Patel,C15B-T06,theory,Campus_15B
+A34,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T07,theory,Campus_15B
+A34,Monday,17:00,English,Ms. Gupta,C15B-T08,theory,Campus_15B
+A34,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T09,theory,Campus_15B
+A34,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T10,theory,Campus_15B
+A34,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+A34,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+A34,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A34,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A34,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A34,Tuesday,15:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+A34,Tuesday,16:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+A34,Wednesday,14:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+A34,Thursday,16:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+A34,Saturday,12:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B6,Monday,08:00,Chemistry,Dr. Patel,C3-T07,theory,Campus_3
+B6,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T08,theory,Campus_3
+B6,Monday,10:00,English,Ms. Gupta,C3-T09,theory,Campus_3
+B6,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T10,theory,Campus_3
+B6,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T11,theory,Campus_3
+B6,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T12,theory,Campus_3
+B6,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+B6,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+B6,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B6,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B6,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B6,Tuesday,09:00,Physics,Dr. Verma,C3-T18,theory,Campus_3
+B6,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T19,theory,Campus_3
+B6,Tuesday,11:00,Science Elective,Dr. Nair,C3-T20,theory,Campus_3
+B6,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T21,theory,Campus_3
+B6,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T22,theory,Campus_3
+B6,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+B6,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+B6,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B6,Tuesday,17:00,Elective,Staff,C3-T07,Elective,Campus_3
+B6,Wednesday,15:00,Elective,Staff,C3-T07,Elective,Campus_3
+B6,Friday,09:00,Elective,Staff,C3-T07,Elective,Campus_3
+B6,Saturday,15:00,Elective,Staff,C3-T07,Elective,Campus_3
+B9,Monday,08:00,Chemistry,Dr. Patel,C3-T10,theory,Campus_3
+B9,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T11,theory,Campus_3
+B9,Monday,10:00,English,Ms. Gupta,C3-T12,theory,Campus_3
+B9,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T13,theory,Campus_3
+B9,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T14,theory,Campus_3
+B9,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T15,theory,Campus_3
+B9,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+B9,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+B9,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B9,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B9,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B9,Tuesday,09:00,Physics,Dr. Verma,C3-T21,theory,Campus_3
+B9,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T22,theory,Campus_3
+B9,Tuesday,11:00,Science Elective,Dr. Nair,C3-T23,theory,Campus_3
+B9,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T24,theory,Campus_3
+B9,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T25,theory,Campus_3
+B9,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+B9,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+B9,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B9,Tuesday,17:00,Elective,Staff,C3-T10,Elective,Campus_3
+B9,Wednesday,17:00,Elective,Staff,C3-T10,Elective,Campus_3
+B9,Saturday,10:00,Elective,Staff,C3-T10,Elective,Campus_3
+A9,Monday,08:00,Physics,Dr. Verma,C3-T10,theory,Campus_3
+A9,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T11,theory,Campus_3
+A9,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T12,theory,Campus_3
+A9,Monday,11:00,Environmental Science,Prof. Sharma,C3-T13,theory,Campus_3
+A9,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-06,lab,Campus_15B
+A9,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-07,lab,Campus_15B
+A9,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A9,Monday,15:00,Chemistry,Dr. Patel,C3-T17,theory,Campus_3
+A9,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T18,theory,Campus_3
+A9,Monday,17:00,English,Ms. Gupta,C3-T19,theory,Campus_3
+A9,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T20,theory,Campus_3
+A9,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T21,theory,Campus_3
+A9,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+A9,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+A9,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A9,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A9,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A9,Tuesday,15:00,Elective,Staff,C3-T10,Elective,Campus_3
+A9,Thursday,09:00,Elective,Staff,C3-T10,Elective,Campus_3
+A9,Thursday,11:00,Elective,Staff,C3-T10,Elective,Campus_3
+A9,Friday,11:00,Elective,Staff,C3-T10,Elective,Campus_3
+A20,Monday,08:00,Physics,Dr. Verma,C8-T01,theory,Campus_8
+A20,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T02,theory,Campus_8
+A20,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T03,theory,Campus_8
+A20,Monday,11:00,Environmental Science,Prof. Sharma,C8-T04,theory,Campus_8
+A20,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+A20,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+A20,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A20,Monday,15:00,Chemistry,Dr. Patel,C8-T08,theory,Campus_8
+A20,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T09,theory,Campus_8
+A20,Monday,17:00,English,Ms. Gupta,C8-T10,theory,Campus_8
+A20,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T01,theory,Campus_8
+A20,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T02,theory,Campus_8
+A20,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+A20,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+A20,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A20,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A20,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A20,Tuesday,15:00,Elective,Staff,C8-T01,Elective,Campus_8
+A20,Tuesday,16:00,Elective,Staff,C8-T01,Elective,Campus_8
+A20,Saturday,09:00,Elective,Staff,C8-T01,Elective,Campus_8
+A20,Saturday,11:00,Elective,Staff,C8-T01,Elective,Campus_8
+A20,Saturday,17:00,Elective,Staff,C8-T01,Elective,Campus_8
+A29,Monday,08:00,Physics,Dr. Verma,C15B-T12,theory,Campus_15B
+A29,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T13,theory,Campus_15B
+A29,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T14,theory,Campus_15B
+A29,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T15,theory,Campus_15B
+A29,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+A29,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+A29,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A29,Monday,15:00,Chemistry,Dr. Patel,C15B-T01,theory,Campus_15B
+A29,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T02,theory,Campus_15B
+A29,Monday,17:00,English,Ms. Gupta,C15B-T03,theory,Campus_15B
+A29,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T04,theory,Campus_15B
+A29,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T05,theory,Campus_15B
+A29,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+A29,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+A29,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A29,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A29,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A29,Tuesday,15:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Wednesday,08:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Wednesday,09:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Wednesday,11:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Friday,16:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Saturday,12:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Saturday,15:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A29,Saturday,17:00,Elective,Staff,C15B-T12,Elective,Campus_15B
+A7,Monday,08:00,Physics,Dr. Verma,C3-T08,theory,Campus_3
+A7,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T09,theory,Campus_3
+A7,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T10,theory,Campus_3
+A7,Monday,11:00,Environmental Science,Prof. Sharma,C3-T11,theory,Campus_3
+A7,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+A7,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+A7,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A7,Monday,15:00,Chemistry,Dr. Patel,C3-T15,theory,Campus_3
+A7,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T16,theory,Campus_3
+A7,Monday,17:00,English,Ms. Gupta,C3-T17,theory,Campus_3
+A7,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T18,theory,Campus_3
+A7,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T19,theory,Campus_3
+A7,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+A7,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-05,lab,Campus_3
+A7,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A7,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A7,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A7,Tuesday,15:00,Elective,Staff,C3-T08,Elective,Campus_3
+A7,Wednesday,14:00,Elective,Staff,C3-T08,Elective,Campus_3
+A7,Thursday,15:00,Elective,Staff,C3-T08,Elective,Campus_3
+A7,Friday,14:00,Elective,Staff,C3-T08,Elective,Campus_3
+A7,Saturday,09:00,Elective,Staff,C3-T08,Elective,Campus_3
+B12,Monday,08:00,Chemistry,Dr. Patel,C3-T13,theory,Campus_3
+B12,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T14,theory,Campus_3
+B12,Monday,10:00,English,Ms. Gupta,C3-T15,theory,Campus_3
+B12,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T16,theory,Campus_3
+B12,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T17,theory,Campus_3
+B12,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T18,theory,Campus_3
+B12,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-01,lab,Campus_3
+B12,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+B12,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B12,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B12,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B12,Tuesday,09:00,Physics,Dr. Verma,C3-T24,theory,Campus_3
+B12,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T25,theory,Campus_3
+B12,Tuesday,11:00,Science Elective,Dr. Nair,C3-T01,theory,Campus_3
+B12,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T02,theory,Campus_3
+B12,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T03,theory,Campus_3
+B12,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+B12,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+B12,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B12,Tuesday,17:00,Elective,Staff,C3-T13,Elective,Campus_3
+B12,Friday,15:00,Elective,Staff,C3-T13,Elective,Campus_3
+B11,Monday,08:00,Chemistry,Dr. Patel,C3-T12,theory,Campus_3
+B11,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T13,theory,Campus_3
+B11,Monday,10:00,English,Ms. Gupta,C3-T14,theory,Campus_3
+B11,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T15,theory,Campus_3
+B11,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T16,theory,Campus_3
+B11,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T17,theory,Campus_3
+B11,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+B11,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+B11,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B11,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B11,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B11,Tuesday,09:00,Physics,Dr. Verma,C3-T23,theory,Campus_3
+B11,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T24,theory,Campus_3
+B11,Tuesday,11:00,Science Elective,Dr. Nair,C3-T25,theory,Campus_3
+B11,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T01,theory,Campus_3
+B11,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T02,theory,Campus_3
+B11,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-04,lab,Campus_15B
+B11,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-05,lab,Campus_15B
+B11,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B11,Tuesday,17:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Wednesday,13:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Wednesday,15:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Thursday,12:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Thursday,13:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Thursday,14:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Friday,15:00,Elective,Staff,C3-T12,Elective,Campus_3
+B11,Saturday,11:00,Elective,Staff,C3-T12,Elective,Campus_3
+B17,Monday,08:00,Chemistry,Dr. Patel,C8-T08,theory,Campus_8
+B17,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T09,theory,Campus_8
+B17,Monday,10:00,English,Ms. Gupta,C8-T10,theory,Campus_8
+B17,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T01,theory,Campus_8
+B17,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T02,theory,Campus_8
+B17,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T03,theory,Campus_8
+B17,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+B17,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+B17,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B17,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B17,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B17,Tuesday,09:00,Physics,Dr. Verma,C8-T09,theory,Campus_8
+B17,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T10,theory,Campus_8
+B17,Tuesday,11:00,Science Elective,Dr. Nair,C8-T01,theory,Campus_8
+B17,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T02,theory,Campus_8
+B17,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T03,theory,Campus_8
+B17,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+B17,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+B17,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B17,Tuesday,17:00,Elective,Staff,C8-T08,Elective,Campus_8
+B17,Wednesday,11:00,Elective,Staff,C8-T08,Elective,Campus_8
+B17,Thursday,12:00,Elective,Staff,C8-T08,Elective,Campus_8
+B17,Friday,08:00,Elective,Staff,C8-T08,Elective,Campus_8
+B17,Friday,13:00,Elective,Staff,C8-T08,Elective,Campus_8
+B22,Monday,08:00,Chemistry,Dr. Patel,C8-T03,theory,Campus_8
+B22,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T04,theory,Campus_8
+B22,Monday,10:00,English,Ms. Gupta,C8-T05,theory,Campus_8
+B22,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T06,theory,Campus_8
+B22,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T07,theory,Campus_8
+B22,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T08,theory,Campus_8
+B22,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+B22,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+B22,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B22,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B22,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B22,Tuesday,09:00,Physics,Dr. Verma,C8-T04,theory,Campus_8
+B22,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T05,theory,Campus_8
+B22,Tuesday,11:00,Science Elective,Dr. Nair,C8-T06,theory,Campus_8
+B22,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T07,theory,Campus_8
+B22,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T08,theory,Campus_8
+B22,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+B22,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+B22,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B22,Tuesday,17:00,Elective,Staff,C8-T03,Elective,Campus_8
+B22,Wednesday,16:00,Elective,Staff,C8-T03,Elective,Campus_8
+B22,Friday,14:00,Elective,Staff,C8-T03,Elective,Campus_8
+B22,Saturday,11:00,Elective,Staff,C8-T03,Elective,Campus_8
+B22,Saturday,15:00,Elective,Staff,C8-T03,Elective,Campus_8
+B25,Monday,08:00,Chemistry,Dr. Patel,C15B-T08,theory,Campus_15B
+B25,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T09,theory,Campus_15B
+B25,Monday,10:00,English,Ms. Gupta,C15B-T10,theory,Campus_15B
+B25,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T11,theory,Campus_15B
+B25,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T12,theory,Campus_15B
+B25,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T13,theory,Campus_15B
+B25,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+B25,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+B25,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B25,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B25,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+B25,Tuesday,09:00,Physics,Dr. Verma,C15B-T01,theory,Campus_15B
+B25,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T02,theory,Campus_15B
+B25,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T03,theory,Campus_15B
+B25,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T04,theory,Campus_15B
+B25,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T05,theory,Campus_15B
+B25,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+B25,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+B25,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B25,Tuesday,17:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+B25,Thursday,14:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+B25,Friday,11:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+B25,Friday,16:00,Elective,Staff,C15B-T08,Elective,Campus_15B
+B32,Monday,08:00,Chemistry,Dr. Patel,C15B-T15,theory,Campus_15B
+B32,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T16,theory,Campus_15B
+B32,Monday,10:00,English,Ms. Gupta,C15B-T17,theory,Campus_15B
+B32,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T18,theory,Campus_15B
+B32,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T01,theory,Campus_15B
+B32,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T02,theory,Campus_15B
+B32,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+B32,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+B32,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B32,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B32,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B32,Tuesday,09:00,Physics,Dr. Verma,C15B-T08,theory,Campus_15B
+B32,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T09,theory,Campus_15B
+B32,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T10,theory,Campus_15B
+B32,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T11,theory,Campus_15B
+B32,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T12,theory,Campus_15B
+B32,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-01,lab,Campus_15B
+B32,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-02,lab,Campus_15B
+B32,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B32,Tuesday,17:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Wednesday,09:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Wednesday,10:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Wednesday,13:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Wednesday,17:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Thursday,09:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Thursday,16:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Friday,15:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B32,Saturday,11:00,Elective,Staff,C15B-T15,Elective,Campus_15B
+B23,Monday,08:00,Chemistry,Dr. Patel,C8-T04,theory,Campus_8
+B23,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T05,theory,Campus_8
+B23,Monday,10:00,English,Ms. Gupta,C8-T06,theory,Campus_8
+B23,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T07,theory,Campus_8
+B23,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T08,theory,Campus_8
+B23,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T09,theory,Campus_8
+B23,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+B23,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-07,lab,Campus_3
+B23,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B23,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B23,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+B23,Tuesday,09:00,Physics,Dr. Verma,C8-T05,theory,Campus_8
+B23,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T06,theory,Campus_8
+B23,Tuesday,11:00,Science Elective,Dr. Nair,C8-T07,theory,Campus_8
+B23,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T08,theory,Campus_8
+B23,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T09,theory,Campus_8
+B23,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+B23,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+B23,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+B23,Tuesday,17:00,Elective,Staff,C8-T04,Elective,Campus_8
+B23,Friday,12:00,Elective,Staff,C8-T04,Elective,Campus_8
+B23,Saturday,09:00,Elective,Staff,C8-T04,Elective,Campus_8
+B34,Monday,08:00,Chemistry,Dr. Patel,C15B-T17,theory,Campus_15B
+B34,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T18,theory,Campus_15B
+B34,Monday,10:00,English,Ms. Gupta,C15B-T01,theory,Campus_15B
+B34,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T02,theory,Campus_15B
+B34,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T03,theory,Campus_15B
+B34,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T04,theory,Campus_15B
+B34,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+B34,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+B34,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B34,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B34,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B34,Tuesday,09:00,Physics,Dr. Verma,C15B-T10,theory,Campus_15B
+B34,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T11,theory,Campus_15B
+B34,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T12,theory,Campus_15B
+B34,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T13,theory,Campus_15B
+B34,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T14,theory,Campus_15B
+B34,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+B34,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+B34,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B34,Tuesday,17:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B34,Wednesday,11:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B34,Wednesday,12:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B34,Wednesday,14:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B34,Thursday,13:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B34,Thursday,16:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+B34,Saturday,09:00,Elective,Staff,C15B-T17,Elective,Campus_15B
+A10,Monday,08:00,Physics,Dr. Verma,C3-T11,theory,Campus_3
+A10,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T12,theory,Campus_3
+A10,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T13,theory,Campus_3
+A10,Monday,11:00,Environmental Science,Prof. Sharma,C3-T14,theory,Campus_3
+A10,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+A10,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+A10,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A10,Monday,15:00,Chemistry,Dr. Patel,C3-T18,theory,Campus_3
+A10,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T19,theory,Campus_3
+A10,Monday,17:00,English,Ms. Gupta,C3-T20,theory,Campus_3
+A10,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T21,theory,Campus_3
+A10,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T22,theory,Campus_3
+A10,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+A10,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+A10,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A10,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A10,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A10,Tuesday,15:00,Elective,Staff,C3-T11,Elective,Campus_3
+A13,Monday,08:00,Physics,Dr. Verma,C8-T04,theory,Campus_8
+A13,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T05,theory,Campus_8
+A13,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T06,theory,Campus_8
+A13,Monday,11:00,Environmental Science,Prof. Sharma,C8-T07,theory,Campus_8
+A13,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-02,lab,Campus_15B
+A13,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-03,lab,Campus_15B
+A13,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A13,Monday,15:00,Chemistry,Dr. Patel,C8-T01,theory,Campus_8
+A13,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T02,theory,Campus_8
+A13,Monday,17:00,English,Ms. Gupta,C8-T03,theory,Campus_8
+A13,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T04,theory,Campus_8
+A13,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T05,theory,Campus_8
+A13,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+A13,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-03,lab,Campus_3
+A13,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A13,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A13,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-02,lab,Campus_3
+A13,Tuesday,15:00,Elective,Staff,C8-T04,Elective,Campus_8
+A13,Tuesday,17:00,Elective,Staff,C8-T04,Elective,Campus_8
+A13,Thursday,08:00,Elective,Staff,C8-T04,Elective,Campus_8
+A13,Thursday,12:00,Elective,Staff,C8-T04,Elective,Campus_8
+A13,Friday,16:00,Elective,Staff,C8-T04,Elective,Campus_8
+A13,Saturday,09:00,Elective,Staff,C8-T04,Elective,Campus_8
+A13,Saturday,11:00,Elective,Staff,C8-T04,Elective,Campus_8
+B2,Monday,08:00,Chemistry,Dr. Patel,C3-T03,theory,Campus_3
+B2,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T04,theory,Campus_3
+B2,Monday,10:00,English,Ms. Gupta,C3-T05,theory,Campus_3
+B2,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T06,theory,Campus_3
+B2,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T07,theory,Campus_3
+B2,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T08,theory,Campus_3
+B2,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+B2,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+B2,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B2,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B2,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B2,Tuesday,09:00,Physics,Dr. Verma,C3-T14,theory,Campus_3
+B2,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T15,theory,Campus_3
+B2,Tuesday,11:00,Science Elective,Dr. Nair,C3-T16,theory,Campus_3
+B2,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T17,theory,Campus_3
+B2,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T18,theory,Campus_3
+B2,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+B2,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+B2,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+B2,Tuesday,17:00,Elective,Staff,C3-T03,Elective,Campus_3
+B2,Wednesday,10:00,Elective,Staff,C3-T03,Elective,Campus_3
+B2,Friday,10:00,Elective,Staff,C3-T03,Elective,Campus_3
+B2,Saturday,12:00,Elective,Staff,C3-T03,Elective,Campus_3
+B26,Monday,08:00,Chemistry,Dr. Patel,C15B-T09,theory,Campus_15B
+B26,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T10,theory,Campus_15B
+B26,Monday,10:00,English,Ms. Gupta,C15B-T11,theory,Campus_15B
+B26,Monday,11:00,Basic Electronics,Dr. Kumar,C15B-T12,theory,Campus_15B
+B26,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C15B-T13,theory,Campus_15B
+B26,Monday,13:00,HASS Elective 1,Prof. Sharma,C15B-T14,theory,Campus_15B
+B26,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+B26,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-02,lab,Campus_3
+B26,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B26,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B26,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+B26,Tuesday,09:00,Physics,Dr. Verma,C15B-T02,theory,Campus_15B
+B26,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T03,theory,Campus_15B
+B26,Tuesday,11:00,Science Elective,Dr. Nair,C15B-T04,theory,Campus_15B
+B26,Tuesday,12:00,Science of Living Systems,Prof. Singh,C15B-T05,theory,Campus_15B
+B26,Tuesday,13:00,Environmental Science,Prof. Sharma,C15B-T06,theory,Campus_15B
+B26,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-03,lab,Campus_15B
+B26,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-04,lab,Campus_15B
+B26,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+B26,Tuesday,17:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B26,Wednesday,08:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B26,Wednesday,12:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B26,Thursday,13:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B26,Friday,10:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B26,Saturday,09:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B26,Saturday,15:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+B4,Monday,08:00,Chemistry,Dr. Patel,C3-T05,theory,Campus_3
+B4,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T06,theory,Campus_3
+B4,Monday,10:00,English,Ms. Gupta,C3-T07,theory,Campus_3
+B4,Monday,11:00,Basic Electronics,Dr. Kumar,C3-T08,theory,Campus_3
+B4,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C3-T09,theory,Campus_3
+B4,Monday,13:00,HASS Elective 1,Prof. Sharma,C3-T10,theory,Campus_3
+B4,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+B4,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+B4,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B4,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B4,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B4,Tuesday,09:00,Physics,Dr. Verma,C3-T16,theory,Campus_3
+B4,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T17,theory,Campus_3
+B4,Tuesday,11:00,Science Elective,Dr. Nair,C3-T18,theory,Campus_3
+B4,Tuesday,12:00,Science of Living Systems,Prof. Singh,C3-T19,theory,Campus_3
+B4,Tuesday,13:00,Environmental Science,Prof. Sharma,C3-T20,theory,Campus_3
+B4,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+B4,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+B4,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+B4,Tuesday,17:00,Elective,Staff,C3-T05,Elective,Campus_3
+B4,Wednesday,15:00,Elective,Staff,C3-T05,Elective,Campus_3
+B4,Wednesday,17:00,Elective,Staff,C3-T05,Elective,Campus_3
+B4,Saturday,10:00,Elective,Staff,C3-T05,Elective,Campus_3
+B4,Saturday,13:00,Elective,Staff,C3-T05,Elective,Campus_3
+A19,Monday,08:00,Physics,Dr. Verma,C8-T10,theory,Campus_8
+A19,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T01,theory,Campus_8
+A19,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T02,theory,Campus_8
+A19,Monday,11:00,Environmental Science,Prof. Sharma,C8-T03,theory,Campus_8
+A19,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+A19,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+A19,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A19,Monday,15:00,Chemistry,Dr. Patel,C8-T07,theory,Campus_8
+A19,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T08,theory,Campus_8
+A19,Monday,17:00,English,Ms. Gupta,C8-T09,theory,Campus_8
+A19,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T10,theory,Campus_8
+A19,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T01,theory,Campus_8
+A19,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-02,lab,Campus_3
+A19,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+A19,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+A19,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A19,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A19,Tuesday,15:00,Elective,Staff,C8-T10,Elective,Campus_8
+A19,Wednesday,09:00,Elective,Staff,C8-T10,Elective,Campus_8
+A19,Thursday,14:00,Elective,Staff,C8-T10,Elective,Campus_8
+A19,Friday,15:00,Elective,Staff,C8-T10,Elective,Campus_8
+A19,Saturday,09:00,Elective,Staff,C8-T10,Elective,Campus_8
+A19,Saturday,17:00,Elective,Staff,C8-T10,Elective,Campus_8
+A3,Monday,08:00,Physics,Dr. Verma,C3-T04,theory,Campus_3
+A3,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C3-T05,theory,Campus_3
+A3,Monday,10:00,Science of Living Systems,Prof. Singh,C3-T06,theory,Campus_3
+A3,Monday,11:00,Environmental Science,Prof. Sharma,C3-T07,theory,Campus_3
+A3,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+A3,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+A3,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A3,Monday,15:00,Chemistry,Dr. Patel,C3-T11,theory,Campus_3
+A3,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C3-T12,theory,Campus_3
+A3,Monday,17:00,English,Ms. Gupta,C3-T13,theory,Campus_3
+A3,Tuesday,08:00,Basic Electronics,Dr. Kumar,C3-T14,theory,Campus_3
+A3,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C3-T15,theory,Campus_3
+A3,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-04,lab,Campus_3
+A3,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+A3,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A3,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A3,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A3,Tuesday,15:00,Elective,Staff,C3-T04,Elective,Campus_3
+A3,Wednesday,11:00,Elective,Staff,C3-T04,Elective,Campus_3
+A3,Thursday,12:00,Elective,Staff,C3-T04,Elective,Campus_3
+A3,Thursday,13:00,Elective,Staff,C3-T04,Elective,Campus_3
+A3,Thursday,17:00,Elective,Staff,C3-T04,Elective,Campus_3
+A3,Saturday,13:00,Elective,Staff,C3-T04,Elective,Campus_3
+A3,Saturday,14:00,Elective,Staff,C3-T04,Elective,Campus_3
+B20,Monday,08:00,Chemistry,Dr. Patel,C8-T01,theory,Campus_8
+B20,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T02,theory,Campus_8
+B20,Monday,10:00,English,Ms. Gupta,C8-T03,theory,Campus_8
+B20,Monday,11:00,Basic Electronics,Dr. Kumar,C8-T04,theory,Campus_8
+B20,Monday,12:00,Basic Electrical Engineering,Dr. Rao,C8-T05,theory,Campus_8
+B20,Monday,13:00,HASS Elective 1,Prof. Sharma,C8-T06,theory,Campus_8
+B20,Monday,14:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+B20,Monday,15:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-04,lab,Campus_3
+B20,Monday,16:00,Workshop,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B20,Monday,17:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+B20,Tuesday,08:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+B20,Tuesday,09:00,Physics,Dr. Verma,C8-T02,theory,Campus_8
+B20,Tuesday,10:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T03,theory,Campus_8
+B20,Tuesday,11:00,Science Elective,Dr. Nair,C8-T04,theory,Campus_8
+B20,Tuesday,12:00,Science of Living Systems,Prof. Singh,C8-T05,theory,Campus_8
+B20,Tuesday,13:00,Environmental Science,Prof. Sharma,C8-T06,theory,Campus_8
+B20,Tuesday,14:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+B20,Tuesday,15:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+B20,Tuesday,16:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-04,lab,Campus_8
+B20,Tuesday,17:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Thursday,11:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Thursday,16:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Friday,10:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Friday,14:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Saturday,10:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Saturday,11:00,Elective,Staff,C8-T01,Elective,Campus_8
+B20,Saturday,16:00,Elective,Staff,C8-T01,Elective,Campus_8
+A26,Monday,08:00,Physics,Dr. Verma,C15B-T09,theory,Campus_15B
+A26,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T10,theory,Campus_15B
+A26,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T11,theory,Campus_15B
+A26,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T12,theory,Campus_15B
+A26,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-07,lab,Campus_15B
+A26,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-08,lab,Campus_15B
+A26,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A26,Monday,15:00,Chemistry,Dr. Patel,C15B-T16,theory,Campus_15B
+A26,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T17,theory,Campus_15B
+A26,Monday,17:00,English,Ms. Gupta,C15B-T18,theory,Campus_15B
+A26,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T01,theory,Campus_15B
+A26,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T02,theory,Campus_15B
+A26,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-03,lab,Campus_3
+A26,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-08,lab,Campus_3
+A26,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A26,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A26,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-03,lab,Campus_3
+A26,Tuesday,15:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+A26,Wednesday,09:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+A26,Thursday,14:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+A26,Thursday,17:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+A26,Saturday,12:00,Elective,Staff,C15B-T09,Elective,Campus_15B
+A35,Monday,08:00,Physics,Dr. Verma,C15B-T18,theory,Campus_15B
+A35,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C15B-T01,theory,Campus_15B
+A35,Monday,10:00,Science of Living Systems,Prof. Singh,C15B-T02,theory,Campus_15B
+A35,Monday,11:00,Environmental Science,Prof. Sharma,C15B-T03,theory,Campus_15B
+A35,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-08,lab,Campus_15B
+A35,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-01,lab,Campus_15B
+A35,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-02,lab,Campus_8
+A35,Monday,15:00,Chemistry,Dr. Patel,C15B-T07,theory,Campus_15B
+A35,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C15B-T08,theory,Campus_15B
+A35,Monday,17:00,English,Ms. Gupta,C15B-T09,theory,Campus_15B
+A35,Tuesday,08:00,Basic Electronics,Dr. Kumar,C15B-T10,theory,Campus_15B
+A35,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C15B-T11,theory,Campus_15B
+A35,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-06,lab,Campus_3
+A35,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-01,lab,Campus_3
+A35,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-05,lab,Campus_8
+A35,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A35,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-04,lab,Campus_3
+A35,Tuesday,15:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+A35,Tuesday,16:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+A35,Thursday,16:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+A35,Friday,13:00,Elective,Staff,C15B-T18,Elective,Campus_15B
+A16,Monday,08:00,Physics,Dr. Verma,C8-T07,theory,Campus_8
+A16,Monday,09:00,Differential Equations and Linear Algebra,Prof. Sharma,C8-T08,theory,Campus_8
+A16,Monday,10:00,Science of Living Systems,Prof. Singh,C8-T09,theory,Campus_8
+A16,Monday,11:00,Environmental Science,Prof. Sharma,C8-T10,theory,Campus_8
+A16,Monday,12:00,Physics Lab,Dr. Verma,C15B-CS-Lab-05,lab,Campus_15B
+A16,Monday,13:00,Programming Lab,Dr. Agarwal,C15B-CS-Lab-06,lab,Campus_15B
+A16,Monday,14:00,Engineering Drawing & Graphics,Prof. Sharma,C8-Workshop-03,lab,Campus_8
+A16,Monday,15:00,Chemistry,Dr. Patel,C8-T04,theory,Campus_8
+A16,Monday,16:00,Transform Calculus and Numerical Analysis,Prof. Sharma,C8-T05,theory,Campus_8
+A16,Monday,17:00,English,Ms. Gupta,C8-T06,theory,Campus_8
+A16,Tuesday,08:00,Basic Electronics,Dr. Kumar,C8-T07,theory,Campus_8
+A16,Tuesday,09:00,Engineering Mechanics,Prof. Tiwari,C8-T08,theory,Campus_8
+A16,Tuesday,10:00,Chemistry Lab,Dr. Patel,C3-Chem-Lab-05,lab,Campus_3
+A16,Tuesday,11:00,Engineering Lab,Prof. Sharma,C3-Eng-Lab-06,lab,Campus_3
+A16,Tuesday,12:00,Workshop,Prof. Sharma,C8-Workshop-01,lab,Campus_8
+A16,Tuesday,13:00,Sports and Yoga,Mr. Prakash,Stadium,extra_curricular_activity,Stadium
+A16,Tuesday,14:00,Communication Lab,Prof. Sharma,C3-Comm-Lab-01,lab,Campus_3
+A16,Tuesday,15:00,Elective,Staff,C8-T07,Elective,Campus_8
+A16,Tuesday,17:00,Elective,Staff,C8-T07,Elective,Campus_8
+A16,Wednesday,09:00,Elective,Staff,C8-T07,Elective,Campus_8
+A16,Wednesday,10:00,Elective,Staff,C8-T07,Elective,Campus_8
+A16,Wednesday,17:00,Elective,Staff,C8-T07,Elective,Campus_8
+A16,Friday,11:00,Elective,Staff,C8-T07,Elective,Campus_8
+A16,Friday,15:00,Elective,Staff,C8-T07,Elective,Campus_8

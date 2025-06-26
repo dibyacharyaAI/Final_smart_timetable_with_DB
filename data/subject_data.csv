@@ -1,0 +1,23 @@
+SubjectCode,SubjectName,Credits,WeeklyHours,Type,Scheme,Department,RoomRequired
+TNM101,Transform and Numerical Methods,4,4,Theory,Both,Mathematics,Classroom
+CHEM101,Chemistry,3,3,Theory,Scheme_A,Civil Engineering,Classroom
+CHEM101L,Chemistry Lab,1,2,Lab,Scheme_A,Civil Engineering,Chemistry_Lab
+ENG101,English,3,3,Theory,Both,Humanities,Classroom
+BETC101,Basic Electronics,3,3,Theory,Scheme_A,Electronics & IT,Classroom
+BETC101L,Basic Electronics Lab,1,2,Lab,Scheme_A,Electronics & IT,Electronics_Lab
+EMECH101,Engineering Mechanics,3,3,Theory,Scheme_A,Mechanical Engineering,Classroom
+EMECH101L,Engineering Mechanics Lab,1,2,Lab,Scheme_A,Mechanical Engineering,Mechanics_Lab
+HASS101,HASS Elective,3,3,Theory,Scheme_A,Humanities,Classroom
+BEE101,Basic Electrical Engineering,3,3,Theory,Scheme_A,Electrical Engineering,Classroom
+BEE101L,Basic Electrical Engineering Lab,1,2,Lab,Scheme_A,Electrical Engineering,Electrical_Lab
+WS101,Workshop Practice,1,2,Lab,Scheme_A,Mechanical Engineering,Workshop
+COMM101L,Communication Lab,1,2,Lab,Scheme_A,CSE Allied,Classroom
+SY101,Sports and Yoga,1,2,Lab,Both,Sports,Stadium
+PHY101,Physics,3,3,Theory,Scheme_B,Computer Science Engineering,Classroom
+PHY101L,Physics Lab,1,2,Lab,Scheme_B,Computer Science Engineering,Physics_Lab
+EVS101,Environmental Science,3,3,Theory,Scheme_B,Computer Science Engineering,Classroom
+SLS101,Science of Living Systems,3,3,Theory,Scheme_B,Computer Science Engineering,Classroom
+SCEL101,Science Elective,3,3,Theory,Scheme_B,Computer Science Engineering,Classroom
+ENGEL101,Engineering Elective,3,3,Theory,Scheme_B,Computer Science Engineering,Classroom
+EDG101,Engineering Drawing & Graphics,2,2,Lab,Scheme_B,Computer Science Engineering,Drawing_Hall
+PL101,Programming Lab,2,4,Lab,Scheme_B,Computer Science Engineering,Computer_Lab
